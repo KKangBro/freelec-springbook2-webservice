@@ -4,3 +4,5 @@
 application-oauth.properties
 
 out
+build
+src.test.resource.application.properties
